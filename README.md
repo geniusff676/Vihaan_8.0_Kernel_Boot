@@ -61,13 +61,14 @@ After completing a location or activity, the user is guided to choose their next
 
 
 ---
-
+## Database ER 
+![Database ER](https://github.com/geniusff676/Vihaan_8.0_Kernel_Boot/blob/main/Populiro_DB_ER.png)
 ## Technology Stack
 
 **Frontend:** React.js / Tailwind CSS  
 **Backend:** Flask / FastAPI  
 **AI Models:** LLaMA-3, Geolocation AI, NLP-based chat agents  
-**Database:** MongoDB / Firebase  
+**Database:** postgresql/ Firebase  
 **APIs:** Google Maps, Crowd Density APIs, Safety Alert APIs
 
 ---
